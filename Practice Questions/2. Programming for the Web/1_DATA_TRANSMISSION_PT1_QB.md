@@ -49,7 +49,7 @@
 
 
 **9.** *(4 marks)* How do **data transmission protocols (such as TCP/IP, FTP, and DNS)** work together to enable the functioning of the internet? Provide examples.  
-> 
+> Data transmission protocols enable the sending and recieving of data over the internet. TCP/IP refers to the suite of addressing, routing, error correction, and other protocols that enable data transmission. FTP (file transfer protocol) is a protocol that enables the sharing of files over the internet. DNS (domain name system) is a system in which domains like google.com are transformed into their respective IP address. For example, a client goes to example.com. The DNS comes into play and finds the IP address associated with example.com, i.e. 201.01.01.1. Then, to establish a connection with example.com, the user visits the IP address 201.01.01.1. TCP ensures that every packet is transmitted without errors. When a user might want to download a file, FTP is used. 
 
 
 
