@@ -1,26 +1,26 @@
 # Algorithms in Machine Learning Part 1 - HSC Software Engineering Revision Notes
 
-## 1. How Machine Learning Supports Automation
+## 🚩 1. How Machine Learning Supports Automation 🚩🚩🚩
 Machine Learning (ML) enables computers to **learn from data** and improve their performance on tasks **without explicit programming**. It is widely used in automation to improve **efficiency, accuracy, and decision-making**.
 
-### ML in DevOps
+### ML in DevOps 🚩
 - **Predictive Analytics:** ML helps predict **system failures** and optimize **server performance**.
 - **Automated Code Review:** Identifies **bugs, security vulnerabilities, and inefficiencies**.
 - **CI/CD Optimization:** Automates **testing and deployment processes**.
 
-### ML in Robotic Process Automation (RPA)
+### ML in Robotic Process Automation (RPA) 🚩
 - Enhances **rule-based automation** by allowing bots to learn from data.
 - Used in **document processing, chatbots, and customer service**.
 - *Example:* An RPA bot automatically extracts and processes invoices.
 
-### ML in Business Process Automation (BPA)
+### ML in Business Process Automation (BPA) 🚩
 - Improves **workflow efficiency** by automating **decision-making**.
 - **Fraud detection, sentiment analysis, and customer recommendations**.
 - *Example:* A finance system uses ML to approve **loan applications based on risk scores**.
 
 ---
 
-## 2. Difference Between Artificial Intelligence (AI) and Machine Learning (ML)
+## 2. Difference Between Artificial Intelligence (AI) and Machine Learning (ML) 
 | **Aspect** | **Artificial Intelligence (AI)** | **Machine Learning (ML)** |
 |------------|----------------------------------|---------------------------|
 | Definition | The broader concept of **machines simulating human intelligence**. | A subset of AI that **learns from data** without explicit programming. |
